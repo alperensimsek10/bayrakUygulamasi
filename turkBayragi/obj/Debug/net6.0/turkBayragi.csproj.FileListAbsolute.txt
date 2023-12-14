@@ -1,0 +1,14 @@
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\bin\Debug\net6.0\turkBayragi.exe
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\bin\Debug\net6.0\turkBayragi.deps.json
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\bin\Debug\net6.0\turkBayragi.runtimeconfig.json
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\bin\Debug\net6.0\turkBayragi.dll
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\bin\Debug\net6.0\turkBayragi.pdb
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\turkBayragi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\turkBayragi.AssemblyInfoInputs.cache
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\turkBayragi.AssemblyInfo.cs
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\turkBayragi.csproj.CoreCompileInputs.cache
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\turkBayragi.dll
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\refint\turkBayragi.dll
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\turkBayragi.pdb
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\turkBayragi.genruntimeconfig.cache
+C:\Users\EXCALİBUR\Source\Repos\turkBayragi\obj\Debug\net6.0\ref\turkBayragi.dll
